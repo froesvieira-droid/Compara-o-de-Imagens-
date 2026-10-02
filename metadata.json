@@ -1,0 +1,6 @@
+{
+  "name": "Diff3D - Comparador Visual Real vs 3D",
+  "description": "Ferramenta profissional para inspeção e comparação visual entre fotos reais e renders 3D com detecção por IA de discrepâncias geométricas, texturas e iluminação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
